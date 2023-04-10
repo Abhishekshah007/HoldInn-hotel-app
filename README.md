@@ -4,13 +4,8 @@ A hotel booking app is a software application designed for users to search and b
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app contains a home page with a search bar and a static list of hotels categorized by sections. There is a bottom bar that allows the user to access their profile and logout, which redirects them back to the login screen.
 
-A few resources to get you started if this is your first Flutter project:
+The search bar on the home page enables the user to search for hotels in a specific city or near their current location by retrieving their latitude and longitude. When the user selects a hotel, they can choose their check-in and check-out dates, select the number of rooms, adults, and children, and then proceed to search for available hotels based on their selection criteria.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The search results page displays a list of available hotels along with the selected check-in and check-out dates, adult count, and room count in the toolbar.
