@@ -1,0 +1,94 @@
+{
+  "hotels": [
+    {
+      "name": "Hotel Red Diamond",
+      "image": "https://cdn.pixabay.com/photo/2012/11/21/10/24/building-66789__340.jpg",
+      "location": "chhattisgarh",
+      "price": "45000"
+    },
+    {
+      "name": "Marriott Hotel",
+      "image": "https://cdn.pixabay.com/photo/2021/09/22/08/35/architecture-6646154__340.jpg",
+      "location": "chhattisgarh",
+      "price": "25000"
+    },
+    {
+      "name": "Hotel Pyramid",
+      "image": "https://cdn.pixabay.com/photo/2016/08/26/20/30/hotel-1623064__340.jpg",
+      "location": "chhattisgarh",
+      "price": "75000"
+    },
+    {
+      "name": "Courtyard by Marriott Raipur",
+      "image": "https://cdn.pixabay.com/photo/2015/09/21/09/53/villa-cortine-palace-949547__340.jpg",
+      "location": "chhattisgarh",
+      "price": "35000"
+    },
+    {
+      "name": "PURPLE ORCHID HOTEL AND RESORT",
+      "image": "https://cdn.pixabay.com/photo/2016/11/17/09/28/hotel-1831072__340.jpg",
+      "location": "chhattisgarh",
+      "price": "75000"
+    },
+    {
+      "name": "Hyatt Hotel",
+      "image": "https://cdn.pixabay.com/photo/2016/09/16/12/53/hotel-1673952__340.jpg",
+      "location": "Maharasthra",
+      "price": "65000"
+    },
+    {
+      "name": "The Orchid Hotel ",
+      "image": "https://cdn.pixabay.com/photo/2020/03/14/20/02/castle-4931672__340.jpg",
+      "location": "Maharasthra",
+      "price": "85000"
+    },
+    {
+      "name": "O Hotel ",
+      "image": "https://cdn.pixabay.com/photo/2017/06/23/21/56/home-2436063__340.jpg",
+      "location": "Maharasthra",
+      "price": "10000"
+    },
+    {
+      "name": "Novotel ",
+      "image": "https://cdn.pixabay.com/photo/2017/03/15/19/50/building-2147254__340.jpg",
+      "location": "Maharasthra",
+      "price": "25000 "
+    },
+    {
+      "name": "Sayaji Pune ",
+      "image": "https://cdn.pixabay.com/photo/2016/09/01/17/33/galicia-1636702__340.jpg",
+      "location": "Maharasthra",
+      "price": "12000 "
+    },
+    {
+      "name": "Grand Mercure",
+      "image": "https://cdn.pixabay.com/photo/2017/03/10/06/15/quebec-2131892__340.jpg ",
+      "location": "Gujarat",
+      "price": "30000 "
+    },
+    {
+      "name": "Hyatt Place ",
+      "image": "https://cdn.pixabay.com/photo/2017/01/14/17/38/hotel-1980072__340.jpg",
+      "location": "Gujarat ",
+      "price": "15000"
+    },
+    {
+      "name": "Fairfield",
+      "image": "https://cdn.pixabay.com/photo/2016/12/23/18/28/singapore-1927720__340.jpg",
+      "location": "Gujarat ",
+      "price": "30000 "
+    },
+    {
+      "name": "Kabir Hotel  ",
+      "image": "https://cdn.pixabay.com/photo/2013/09/11/00/28/innsbruck-181081__340.jpg",
+      "location": "Gujarat",
+      "price": "18000"
+    },
+    {
+      "name": "The Beacon Hotel ",
+      "image": "https://cdn.pixabay.com/photo/2015/08/19/20/15/hotel-896569__340.jpg",
+      "location": "Gujarat",
+      "price": "30000"
+    }
+  ]
+}
